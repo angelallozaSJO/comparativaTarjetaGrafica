@@ -1,0 +1,25 @@
+body {
+    background-color: #8bd0f8;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+
+table,
+td,
+th {
+    margin: auto;
+    border: 1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+td {
+    text-align: center;
+}
